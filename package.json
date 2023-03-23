@@ -1,0 +1,19 @@
+{
+  "name": "create-server",
+  "version": "1.0.0",
+  "description": "membuat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teknoreceh/node3.git"
+  },
+  "author": "Dana Putra Yuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teknoreceh/node3/issues"
+  },
+  "homepage": "https://github.com/teknoreceh/node3#readme"
+}
